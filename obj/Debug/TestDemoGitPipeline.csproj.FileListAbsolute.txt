@@ -1,0 +1,7 @@
+C:\Users\SachinVerma\source\repos\TestDemoGitPipeline\TestDemoGitPipeline\bin\Debug\TestDemoGitPipeline.exe.config
+C:\Users\SachinVerma\source\repos\TestDemoGitPipeline\TestDemoGitPipeline\bin\Debug\TestDemoGitPipeline.exe
+C:\Users\SachinVerma\source\repos\TestDemoGitPipeline\TestDemoGitPipeline\bin\Debug\TestDemoGitPipeline.pdb
+C:\Users\SachinVerma\source\repos\TestDemoGitPipeline\TestDemoGitPipeline\obj\Debug\TestDemoGitPipeline.csprojAssemblyReference.cache
+C:\Users\SachinVerma\source\repos\TestDemoGitPipeline\TestDemoGitPipeline\obj\Debug\TestDemoGitPipeline.csproj.CoreCompileInputs.cache
+C:\Users\SachinVerma\source\repos\TestDemoGitPipeline\TestDemoGitPipeline\obj\Debug\TestDemoGitPipeline.exe
+C:\Users\SachinVerma\source\repos\TestDemoGitPipeline\TestDemoGitPipeline\obj\Debug\TestDemoGitPipeline.pdb
